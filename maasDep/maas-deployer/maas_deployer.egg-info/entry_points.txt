@@ -1,0 +1,3 @@
+[console_scripts]
+maas-deployer = maas_deployer.cli:main
+

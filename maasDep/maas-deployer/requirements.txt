@@ -1,0 +1,6 @@
+bson==0.4.1
+httplib2
+jinja2
+--allow-external libvirt-python
+lxml
+PyYAML
